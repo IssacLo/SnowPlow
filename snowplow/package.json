@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@analytics/snowplow": "^0.2.5",
+    "@snowplow/browser-plugin-link-click-tracking": "^3.2.3",
     "@snowplow/browser-plugin-site-tracking": "^3.2.3",
     "@snowplow/browser-tracker": "^3.2.3",
     "analytics": "^0.7.21",
